@@ -1,6 +1,7 @@
 package Pages;
 
 public class AmazonPage {
+    "sout git test"
 
     //created new commits-html for menu
 
