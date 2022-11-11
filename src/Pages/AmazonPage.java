@@ -1,8 +1,9 @@
 package Pages;
 
 public class AmazonPage {
-    "sout git test"
+public class Hello {
 
+}
     //created new commits-html for menu
 
     //html for search button
